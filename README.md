@@ -206,6 +206,8 @@ Kemudian dimodifikasi oleh strategi coping.
 ## 👤 Author
 
 **Project – Pemodelan dan Simulasi**  
+Muhammad Dai Takdr
+202310370311091
 Universitas Muhammadiyah Malang  
 Tahun Akademik 2025/2026
 
